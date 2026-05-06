@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: article
 title: Vibe coding в проде: как делегировать код ИИ и не потерять контроль
+description: Разбор доклада Anthropic о vibe coding в production — где граница доверия к ИИ, как управлять tech debt и проверять результат без построчного ревью.
 ---
 
 # Vibe coding в проде: как делегировать код ИИ и не потерять контроль
